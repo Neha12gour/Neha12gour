@@ -16,7 +16,7 @@
 - 📊 Expert in **Power BI (DAX, Power Query, Modeling)**  
 - 🐍 Skilled in Python libraries: Pandas, NumPy, Scikit-learn  
 - 📚 Currently learning **Deep Learning & Advanced ML**  
-- 🔗 Portfolio: *(add link if you have)*  
+- 🔗 Portfolio: *https://github.com/Neha12gour*  
 - 📫 Reach me at: **nehagaur0110@gmail.com**  
 
 ---

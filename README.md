@@ -83,7 +83,7 @@ Repository: **ML-Projects**
 ---
 
 ## 🤝 Connect with Me  
-📧 **Email:** your-email-here  
+📧 **Email:** nehagaur0110@gmail.com 
 🔗 **GitHub:** https://github.com/Neha12gour  
 🔗 **LinkedIn:** *https://www.linkedin.com/in/nehagaur0110/*  
 

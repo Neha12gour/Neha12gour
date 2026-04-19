@@ -73,14 +73,6 @@ Repository: **ML-Projects**
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Neha12gour&show_icons=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha12gour&layout=compact" />
-</p>
-
----
 
 ## 🤝 Connect with Me  
 📧 **Email:** nehagaur0110@gmail.com 
